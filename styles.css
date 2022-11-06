@@ -1,0 +1,15 @@
+body
+{
+	background-color: #201527;
+}
+.AboutKimAleksandr {color: #66FFFF;}
+.Description {color: #FF33CC;}
+.Class {color: #CC00FF }
+.Favourites {color: #9933FF}
+.Moods {color: #FF33FF}
+.Happy {color: #FFFF00}
+.Sad {color: #6666FF}
+.Facts {color: #FF0099}
+li{color: #FF3300;}
+em{color: #ABC356;}
+a{color: pink;}
